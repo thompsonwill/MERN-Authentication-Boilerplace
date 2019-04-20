@@ -3,7 +3,7 @@ This repo is a basic Mongo, Express, React & Redux, and Node authentication. See
 
 # Setup Instructions
 * Clone Repo
-* cd chow
+* cd MERN-Authentication-Boilerplace
 * npm i
 * mkdir config && cd config && touch keys.js passport.js
 
