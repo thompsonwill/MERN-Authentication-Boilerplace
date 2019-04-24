@@ -6,7 +6,7 @@ This repo is a basic Mongo, Express, React & Redux, and Node authentication. See
 * cd MERN-Authentication-Boilerplace
 * npm i
 * cd client && npm i
-* mkdir config && cd config && touch keys.js passport.js
+* return to root dir. and then mkdir config && cd config && touch keys.js passport.js
 
 ## /config/keys.js
 ```
